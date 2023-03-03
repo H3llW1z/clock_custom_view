@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogueClockView">
+        <attr name="hourHandColor" format="reference|color" />
+        <attr name="minuteHandColor" format="reference|color" />
+        <attr name="secondHandColor" format="reference|color" />
+        <attr name="borderColor" format="reference|color" />
+        <attr name="enableBorderDots" format="boolean" />
+        <attr name="backgroundColor" format="reference|color" />
+        <attr name="borderDotsColor" format="color|reference" />
+        <attr name="numeralsColor" format="color|reference" />
+        <attr name="centerPinColor" format="reference|color" />
+        <attr name="enableNumerals" format="boolean"/>
+    </declare-styleable>
+</resources>
